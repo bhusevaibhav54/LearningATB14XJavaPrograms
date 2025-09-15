@@ -9,7 +9,6 @@ public class Lab020_printF {
         System.out.printf("value of b is %d",b);*/
 
         int a = 9;
-
         System.out.printf("%d * 1 = %d\n",a,a);
         System.out.printf("%d * 2 = %d\n",a,a*2);
         System.out.printf("%d * 3 = %d\n",a,a*3);
