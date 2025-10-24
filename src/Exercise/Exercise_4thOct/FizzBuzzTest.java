@@ -1,4 +1,4 @@
-package Exercise;
+package Exercise.Exercise_4thOct;
 
 /*✅FizzBuzz Test
 Write a program that prints numbers from 1 to 100.
