@@ -1,6 +1,4 @@
-package Exercise_5thOct;
-
-import java.util.Scanner;
+package Exercise.Exercise_5thOct;
 
 public class NoOfWordsinString {
     public static void main(String[] args) {

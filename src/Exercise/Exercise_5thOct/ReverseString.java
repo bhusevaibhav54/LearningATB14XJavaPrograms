@@ -1,4 +1,4 @@
-package Exercise_5thOct;
+package Exercise.Exercise_5thOct;
 
 import java.util.Scanner;
 

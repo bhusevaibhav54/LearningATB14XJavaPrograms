@@ -1,6 +1,4 @@
-package Exercise_5thOct;
-
-import java.util.Arrays;
+package Exercise.Exercise_5thOct;
 
 public class Print1stLetterofWords {
     public static void main(String[] args) {
