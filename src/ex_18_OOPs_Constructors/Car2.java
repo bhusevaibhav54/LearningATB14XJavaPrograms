@@ -21,7 +21,7 @@ public class Car2 {
     }
 
     Car2(String model_name){
-        this("Swift",1998);
+//        this("Swift",1998);
         this.model=model_name;
     }
 }
