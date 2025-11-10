@@ -6,6 +6,6 @@ public class Thief {
     public static void main(String[] args) {
         cop thief = new cop(100);
 //        thief.canIShoot();
-        thief.thisDefaultF1();
+//        thief.thisDefaultF1();
     }
 }
