@@ -1,4 +1,4 @@
-package ex06_Ternary_Oparator;
+package ex_06_Ternary_Oparator;
 
 public class Lab055_TO {
     public static void main(String[] args) {

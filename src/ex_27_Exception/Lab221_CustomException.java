@@ -4,7 +4,7 @@ public class Lab221_CustomException {
     public static void main(String[] args) throws CustomException {
         Bank sbi=new Bank("INR",100);
         Bank icici=new Bank("INR",123);
-        Integer total_Bal = sbi.add(icici);
+        Integer total_Bal = sbi.add (icici);
         System.out.println(total_Bal);
 
         Bank jp_chase = new Bank("USD",101);

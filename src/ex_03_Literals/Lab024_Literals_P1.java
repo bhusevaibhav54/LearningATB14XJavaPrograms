@@ -1,4 +1,4 @@
-package ex03_Literals;
+package ex_03_Literals;
 
 public class Lab024_Literals_P1 {
     public static void main(String[] args) {
